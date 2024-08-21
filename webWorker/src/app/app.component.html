@@ -1,0 +1,8 @@
+<div class="form-input">
+  <label>Reverse string</label>
+  <input type="text" [(ngModel)]="initialString" (change)="connectToWorker()" />
+</div>
+<div class="response">
+  The response is <b>{{ result }}</b>
+</div>
+<router-outlet />

@@ -1,0 +1,20 @@
+.form-input {
+  margin-inline: 5rem;
+  margin-block: 5rem;
+}
+label {
+  padding-inline-end: 10px;
+  font-size: 20px;
+}
+input {
+  height: 50px;
+  border-radius: 20px;
+  min-width: 200px;
+  font-size: 18px;
+  color: rgb(111, 110, 110);
+  padding-inline: 1rem;
+}
+.response {
+  font-size: 20px;
+  margin-inline: 5rem;
+}
